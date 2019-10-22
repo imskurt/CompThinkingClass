@@ -1,1 +1,2 @@
 # CompThinkingClass
+# this is new!
